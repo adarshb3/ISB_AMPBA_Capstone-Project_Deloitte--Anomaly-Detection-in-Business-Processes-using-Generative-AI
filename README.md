@@ -1,4 +1,4 @@
-# ISB_AMPBA_Capstone-Project_Deloitte-Anomlay-Detection-in-Business-Processes-using-Generative-AI
+# ISB_AMPBA_Capstone-Project_Deloitte-Anomaly-Detection-in-Business-Processes-using-Generative-AI
 
 ## Introduction
 This repository contains the code and resources for the ISB Capstone Project with Deloitte, focused on anomaly detection in business processes using generative AI. The goal of this project is to enhance fraud detection, streamline audit processes, and improve operational efficiency using generative AI.
