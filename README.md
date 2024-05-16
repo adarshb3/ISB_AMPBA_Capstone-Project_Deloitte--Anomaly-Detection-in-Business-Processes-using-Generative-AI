@@ -20,7 +20,7 @@ The project follows a structured workflow from data cleaning to the deployment o
 3. **Data Transformation**: Merging relevant columns and preparing the data for modeling.
 4. **Data Modeling**: For Dashboarding, Using KNN for anomaly detection and applying KRIs for rule-based modeling. 
 5. **Model Evaluation**: Evaluating models using classification metrics and comparing results with ground truth.
-6. **Dashboard Requirements**: Gathering requirements and generating results/plots.
+6. **Dashboard Requirements**: Gathering wireframe dashboard requirements and generating results/plots.
 7. **Generative AI Implementation**: Utilizing LLM Agent/GenAI for insights and action plans.
 
 ### Workflow Diagram
