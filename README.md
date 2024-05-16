@@ -50,7 +50,7 @@ The app interface allows users to interact with the anomaly detection model, vie
 10. **Tableau**: For dashboarding and data visualization.
 
 ### Python Libraries
-Based on the `app.py` file, the following libraries need to be installed:
+Based on the `app3.py` file, the following libraries need to be installed:
 ```text
 streamlit==1.29.0
 pandas==2.2.1
