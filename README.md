@@ -36,9 +36,18 @@ The app interface allows users to interact with the anomaly detection model, vie
 
 ![App Interface](https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte-Anomlay-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/App%20Interface%20Screenshot.png)
 
-## Installation
-To get started with the project, follow the steps below:
+## Tools and Libraries
 
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/isb-capstone-anomaly-detection.git
+### Tools
+1. **Python 3.10.9**: Required for running the scripts.
+2. **VS Code**: Recommended IDE with Docker and Azure CLI extensions.
+3. **Docker Dekstop**: For containerizing the application.
+4. **Docker Extension**: For running Docker images.
+5. **Azure Tools Extension**: For managing Azure resources.
+6. **Azure CLI Tools Extension**: Tools for developing and running commands of the Azure CLI.
+7. **Mage AI**: Installed using Docker for advanced AI capabilities.
+8. **PostgreSQL - pgAdmin4**: Database management system ; GUI for PostgreSQL.
+10. **Tableau**: For dashboarding and data visualization.
+
+### Libraries
+Based on the `app.py` file, the following libraries need to be installed:
