@@ -63,3 +63,4 @@ langchain-core==0.1.46
 langchain-experimental==0.0.57
 langchain-openai==0.1.4
 langchain-text-splitters==0.0.1
+tabulate==0.9.0
