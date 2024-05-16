@@ -29,7 +29,7 @@ The project follows a structured workflow from data cleaning to the deployment o
 ## Architecture Diagram
 The architecture diagram provides a detailed view of the system components and data flow involved in the project.
 
-![Architecture Diagram](path_to_architecture_image)
+![Architecture Diagram](https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte-Anomlay-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/Architecture%20Diagram.drawio%20(2).png)
 
 ## App Interface
 The app interface allows users to interact with the anomaly detection model, view results, and gain insights from the data.
