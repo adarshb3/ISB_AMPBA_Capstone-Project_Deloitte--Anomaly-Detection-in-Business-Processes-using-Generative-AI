@@ -1,0 +1,98 @@
+Category,Sub Category,Count,Fraud Profile
+Adverse Media,Bank Fraud,948,Yes
+Adverse Media,Burglary,10722,Yes
+Adverse Media,Embezzlement,6673,Yes
+Adverse Media,Extort-Rack-Threats,2082,Yes
+Adverse Media,Financial Crimes,499,Yes
+Adverse Media,Forgery,1477,Yes
+Adverse Media,Fraud,27897,Yes
+Adverse Media,Gambling Operations,597,Yes
+Adverse Media,Healthcare Fraud,418,Yes
+Adverse Media,Insider Trading,216,Yes
+Adverse Media,Money Laundering,4911,Yes
+Adverse Media,Mortgage Fraud,1080,Yes
+Adverse Media,Organized Crime,16737,Yes
+Adverse Media,Price Manipulation,289,Yes
+Adverse Media,RICO,1066,Yes
+Adverse Media,Securities Fraud,142,Yes
+Adverse Media,Stolen Property,338,Yes
+Adverse Media,Tax Evasion,2622,Yes
+Associated Entity,Embezzlement,2,Yes
+Associated Entity,Fraud,97,Yes
+Associated Entity,Money Laundering,9,Yes
+Associated Entity,Organized Crime,6,Yes
+Associated Entity,Securities Fraud,2,Yes
+End-Use Controls,Embezzlement,1,Yes
+End-Use Controls,Organized Crime,2,Yes
+Enforcement,Bank Fraud,6175,Yes
+Enforcement,Burglary,10472,Yes
+Enforcement,Embezzlement,6655,Yes
+Enforcement,Extort-Rack-Threats,1493,Yes
+Enforcement,Financial Crimes,345,Yes
+Enforcement,Forgery,1172,Yes
+Enforcement,Fraud,72861,Yes
+Enforcement,Gambling Operations,1025,Yes
+Enforcement,Healthcare Fraud,6255,Yes
+Enforcement,Insider Trading,2440,Yes
+Enforcement,Money Laundering,6687,Yes
+Enforcement,Mortgage Fraud,5173,Yes
+Enforcement,Organized Crime,11096,Yes
+Enforcement,Price Manipulation,1749,Yes
+Enforcement,RICO,6194,Yes
+Enforcement,Securities Fraud,10372,Yes
+Enforcement,Stolen Property,721,Yes
+Enforcement,Tax Evasion,8692,Yes
+Excluded Party,Bank Fraud,2,Yes
+Excluded Party,Burglary,8,Yes
+Excluded Party,Embezzlement,16,Yes
+Excluded Party,Extort-Rack-Threats,1,Yes
+Excluded Party,Fraud,147,Yes
+Excluded Party,Healthcare Fraud,16,Yes
+Excluded Party,Money Laundering,15,Yes
+Excluded Party,Mortgage Fraud,5,Yes
+Excluded Party,Organized Crime,4,Yes
+Excluded Party,RICO,1,Yes
+Excluded Party,Securities Fraud,9,Yes
+Excluded Party,Stolen Property,2,Yes
+Excluded Party,Tax Evasion,2,Yes
+Government Corp,Fraud,2,Yes
+Government Corp,Gambling Operations,2,Yes
+Government Corp,Insider Trading,3,Yes
+Government Corp,Money Laundering,3,Yes
+Influential Person,Embezzlement,2,Yes
+Influential Person,Extort-Rack-Threats,4,Yes
+Influential Person,Fraud,3,Yes
+Influential Person,Insider Trading,3,Yes
+Influential Person,Money Laundering,3,Yes
+Investigation,Bank Fraud,3,Yes
+Investigation,Burglary,7,Yes
+Investigation,Embezzlement,45,Yes
+Investigation,Extort-Rack-Threats,1,Yes
+Investigation,Financial Crimes,3,Yes
+Investigation,Forgery,2,Yes
+Investigation,Fraud,200,Yes
+Investigation,Gambling Operations,1,Yes
+Investigation,Healthcare Fraud,2,Yes
+Investigation,Insider Trading,3,Yes
+Investigation,Money Laundering,63,Yes
+Investigation,Organized Crime,5,Yes
+Investigation,Price Manipulation,9,Yes
+Investigation,RICO,6,Yes
+Investigation,Securities Fraud,4,Yes
+Investigation,Stolen Property,5,Yes
+Investigation,Tax Evasion,18,Yes
+PEP,Burglary,7,Yes
+PEP,Embezzlement,47,Yes
+PEP,Extort-Rack-Threats,105,Yes
+PEP,Financial Crimes,17,Yes
+PEP,Forgery,54,Yes
+PEP,Fraud,519,Yes
+PEP,Gambling Operations,65,Yes
+PEP,Healthcare Fraud,2,Yes
+PEP,Insider Trading,4,Yes
+PEP,Money Laundering,69,Yes
+PEP,Organized Crime,34,Yes
+PEP,RICO,2,Yes
+PEP,Stolen Property,1,Yes
+Sanction List,Money Laundering,1,Yes
+Sanction List,Organized Crime,4,Yes
