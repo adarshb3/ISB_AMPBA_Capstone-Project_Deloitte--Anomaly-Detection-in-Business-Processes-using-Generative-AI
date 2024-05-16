@@ -34,7 +34,7 @@ The architecture diagram provides a detailed view of the system components and d
 ## App Interface
 The app interface allows users to interact with the anomaly detection model, view results, and gain insights from the data.
 
-![App Interface](path_to_app_interface_image)
+![App Interface](https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte-Anomlay-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/App%20Interface%20Screenshot.png)
 
 ## Installation
 To get started with the project, follow the steps below:
