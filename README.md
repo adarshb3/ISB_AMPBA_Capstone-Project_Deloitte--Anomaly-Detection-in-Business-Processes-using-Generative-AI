@@ -45,7 +45,7 @@ The app interface allows users to interact with the anomaly detection model, vie
 4. **Docker Extension**: For running Docker images.
 5. **Azure Tools Extension**: For managing Azure resources.
 6. **Azure CLI Tools Extension**: Tools for developing and running commands of the Azure CLI.
-7. **Mage AI**: Installed using Docker for ETL ; data pipelines.
+7. **Mage AI**: Installed using Docker for ETL ; data pipelines.[https://github.com/mage-ai/mage-ai]
 8. **PostgreSQL - pgAdmin4**: Database management system ; GUI for PostgreSQL.
 10. **Tableau**: For dashboarding and data visualization.
 
