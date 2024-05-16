@@ -24,7 +24,7 @@ The project follows a structured workflow from data cleaning to the deployment o
 7. **Generative AI Implementation**: Utilizing LLM Agent/GenAI for insights and action plans.
 
 ### Workflow Diagram
-![Workflow Diagram](images/Workflow diagram.12.png)
+![Project Workflow Diagram](/images/Workflow diagram.12.png
 
 ## Architecture Diagram
 The architecture diagram provides a detailed view of the system components and data flow involved in the project.
