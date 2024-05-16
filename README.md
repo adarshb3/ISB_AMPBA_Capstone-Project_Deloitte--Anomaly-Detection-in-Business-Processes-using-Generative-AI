@@ -24,7 +24,7 @@ The project follows a structured workflow from data cleaning to the deployment o
 7. **Generative AI Implementation**: Utilizing LLM Agent/GenAI for insights and action plans.
 
 ### Workflow Diagram
-![Project Workflow Diagram](/images/Workflow diagram.12.png
+![Project Workflow Diagram][(/images/Workflow diagram.12.png "](https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte-Anomlay-Detection-in-Business-Processes-using-Generative-AI/blob/7c00a3b0c104593b307bd77504f621dd3d92577f/images/Workflow%20diagram.12.png)
 
 ## Architecture Diagram
 The architecture diagram provides a detailed view of the system components and data flow involved in the project.
