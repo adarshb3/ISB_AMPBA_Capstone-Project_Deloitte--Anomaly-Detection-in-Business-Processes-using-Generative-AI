@@ -18,7 +18,7 @@ The project follows a structured workflow from data cleaning to the deployment o
 1. **Data Cleaning**: Removing empty columns and eliminating inconsistencies.
 2. **Exploratory Data Analysis (EDA)**: Generating detailed reports and visualizations.
 3. **Data Transformation**: Merging relevant columns and preparing the data for modeling.
-4. **Data Modeling**: Using KNN for anomaly detection and applying KRIs for rule-based modeling.
+4. **Data Modeling**: For Dashboarding, Using KNN for anomaly detection and applying KRIs for rule-based modeling. 
 5. **Model Evaluation**: Evaluating models using classification metrics and comparing results with ground truth.
 6. **Dashboard Requirements**: Gathering requirements and generating results/plots.
 7. **Generative AI Implementation**: Utilizing LLM Agent/GenAI for insights and action plans.
