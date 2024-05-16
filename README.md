@@ -45,9 +45,21 @@ The app interface allows users to interact with the anomaly detection model, vie
 4. **Docker Extension**: For running Docker images.
 5. **Azure Tools Extension**: For managing Azure resources.
 6. **Azure CLI Tools Extension**: Tools for developing and running commands of the Azure CLI.
-7. **Mage AI**: Installed using Docker for advanced AI capabilities.
+7. **Mage AI**: Installed using Docker for ETL ; data pipelines.
 8. **PostgreSQL - pgAdmin4**: Database management system ; GUI for PostgreSQL.
 10. **Tableau**: For dashboarding and data visualization.
 
 ### Libraries
 Based on the `app.py` file, the following libraries need to be installed:
+```text
+streamlit==1.29.0
+pandas==2.2.1
+python-dotenv==1.0.0
+langchain-openai==0.1.4
+openai==1.23.6
+langchain==0.1.16
+langchain-community==0.0.33
+langchain-core==0.1.46
+langchain-experimental==0.0.57
+langchain-openai==0.1.4
+langchain-text-splitters==0.0.1
