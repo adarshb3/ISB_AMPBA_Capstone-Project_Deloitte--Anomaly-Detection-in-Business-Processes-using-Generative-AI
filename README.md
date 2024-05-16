@@ -36,7 +36,7 @@ The app interface allows users to interact with the anomaly detection model, vie
 
 ![App Interface](https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte-Anomlay-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/App%20Interface%20Screenshot.png)
 
-## Tools and Libraries
+## Tools and Technologies
 
 ### Tools
 1. **Python 3.10.9**: Required for running the scripts.
@@ -49,7 +49,7 @@ The app interface allows users to interact with the anomaly detection model, vie
 8. **PostgreSQL - pgAdmin4**: Database management system ; GUI for PostgreSQL.
 10. **Tableau**: For dashboarding and data visualization.
 
-### Libraries
+### Python Libraries
 Based on the `app.py` file, the following libraries need to be installed:
 ```text
 streamlit==1.29.0
