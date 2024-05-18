@@ -34,10 +34,10 @@ The architecture diagram provides a detailed view of the system components and d
 ## Data Orchestration/ETL using Mage AI
 The data orchestration and ETL process leverages Mage AI to manage and streamline the data flow. The raw CSV tables from PostgreSQL are ingested, transformed, and exported back to PostgreSQL, ensuring data consistency and readiness for subsequent analysis. Mage AI is installed using Docker for efficient ETL and data pipeline management. This approach not only automates data handling but also significantly enhances the reliability and scalability of the entire data processing workflow.
 
-(https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/Mage%20AI%20Pipeline%20Flow%20chart.png)
-(https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/Data%20Loader_ETL.png)
-(https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/Transformation_ETL.png)
-(https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/Exporter_ETL.png)
+!(https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/Mage%20AI%20Pipeline%20Flow%20chart.png)
+!(https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/Data%20Loader_ETL.png)
+!(https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/Transformation_ETL.png)
+!(https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/Exporter_ETL.png)
 
 ## App Interface
 The app interface allows users to interact with the anomaly detection model, view results, and gain insights from the data.
