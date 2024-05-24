@@ -42,7 +42,7 @@ The data orchestration and ETL process leverages Mage AI to manage and streamlin
 ## App Interface
 The app interface allows users to interact with the anomaly detection model, view results, and gain insights from the data.
 
-![App Interface](https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/image.png))
+![App Interface](https://github.com/adarshb3/ISB_AMPBA_Capstone-Project_Deloitte--Anomaly-Detection-in-Business-Processes-using-Generative-AI/blob/main/images/image.png)
 
 ## Tools and Technologies
 
